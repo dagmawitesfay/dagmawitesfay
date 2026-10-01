@@ -10,5 +10,6 @@ Full-stack software engineer based in Boston, MA — currently a Software Engine
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/dagmawi-tesfay/
+
 Portfolio: https://dagmawitesfay.netlify.app/
 
